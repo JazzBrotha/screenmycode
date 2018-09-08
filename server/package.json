@@ -6,9 +6,10 @@
   "scripts": {
     "start": "node dist/index.js",
     "compile": "ts-node build.ts && tsc",
-    "dev": "nodemon server/index.ts | pino -o 'short'",
-    "dev:debug": "nodemon --exec 'node -r ts-node/register --inspect-brk' server/index.ts  | pino -o 'short'",
-    "test": "mocha test/**/*.ts --exit",
+    "dev": "npm run lint && nodemon src/index.ts | pino -o 'short'",
+    "dev:debug": "nodemon --exec 'node -r ts-node/register --inspect-brk' src/index.ts  | pino -o 'short'",
+    "lint": "tslint -c tslint.json 'src/**/*.ts'",
+    "test": "tslint -c tslint.json 'test/**/*.ts' && mocha test/**/*.ts --exit",
     "test:debug": "mocha --inspect-brk test/**/*.ts --exit"
   },
   "dependencies": {
@@ -34,6 +35,5 @@
     "ts-node": "^7.0.1",
     "tslint": "^5.11.0",
     "typescript": "^3.0.3"
-  },
-  "author": "Carmine DiMascio <cdimascio@gmail.com> (https://github.com/cdimascio)"
+  }
 }
