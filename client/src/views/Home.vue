@@ -11,7 +11,7 @@
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
 import HelloWorld from '@/components/HelloWorld.vue'; // @ is an alias to /src
-import axios from 'axios';
+import AuthenticationService from '../services/AuthenticationService';
 
 @Component({
   components: {
@@ -20,7 +20,10 @@ import axios from 'axios';
 })
 export default class Home extends Vue {
   public async getExamples() {
-    const test = await axios.get('/api/examples');
+    const test = await AuthenticationService.register({
+      email: 'test@test.se',
+      password: '123124'
+    });
     console.log(test);
   }
 }
