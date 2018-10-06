@@ -11,23 +11,23 @@ This web application aims to help developers learn the fundamentals of how scree
 Down below are a list of milestones that represent the overall goals of the project. Preferably, they are to be done in sequential order.
 
 ### Short term
-- [ ] Create the sandbox
+- [ ] **Create the sandbox**
 > Figure out how to make a code sandbox that supports modern web technologies. Research how similar existing tools work: CodePen, jsFiddle, etc.
-- [ ] Fetch code from sandbox in back end
+- [ ] **Fetch code from sandbox in back end**
 > Connect the textarea in the sanbox to submit the code as a POST request to back end. Set up route in back end to catch that code.
-- [ ] Integrate a screen reader into the application
+- [ ] **Integrate a screen reader into the application**
 > Find an open source screen reader who's behavior somewhat represents the most used screen readers. Pick one where it is possible to extract the spoken text, and that can be integrated into a web application.
-- [ ] Log the part of the code that the screen reader extracts
+- [ ] **Log the part of the code that the screen reader extracts**
 >  Understand why the screen reader only extracts certain parts of the code in the sandbox. Output the information that the screen reader extracts, i.e. into the terminal.
 
 ### Medium term
-- [ ] Launch screen ready from web application UI
+- [ ] **Launch screen ready from web application UI**
 > Be able to launch the screen from a user interaction, i.e a click event.
-- [ ] Visualize the extracted code in the UI
+- [ ] **Visualize the extracted code in the UI**
 > Make the extracted code update live in the UI.
-- [ ] Create the highlighting effect
+- [ ] **Create the highlighting effect**
 > Pick an appropriate way to highlight the extracted code in the UI so that it is clear to the user which parts that the screen reader extracts.
-- [ ] Allow editing of the code
+- [ ] **Allow editing of the code**
 > Enable the user to edit the code in the sandbox and re-run it.
 
 ### Long term
