@@ -14,7 +14,7 @@ This project contains the four following roles:
 3. Reviewers
 4. Maintainers
 
-You can take on any one of these roles, or multiple roles if you chooses. Below are a short description of each role.
+You can take on any one of these, or multiple, roles. Down below is a short description of each role.
 
 ### Users
 Users drive the project forward by voicing their opinion. A user's typical tasks include
