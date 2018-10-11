@@ -10,7 +10,7 @@
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
-import HelloWorld from '@/components/HelloWorld.vue'; // @ is an alias to /src
+import HelloWorld from '@/components/HelloWorld.vue';
 import AuthenticationService from '../services/AuthenticationService';
 
 @Component({
@@ -20,10 +20,11 @@ import AuthenticationService from '../services/AuthenticationService';
 })
 export default class Home extends Vue {
   public async getExamples() {
-    const test = await AuthenticationService.register({
-      email: 'test@test.se',
-      password: '123124'
-    });
+    const test = await AuthenticationService.runOrca();
+    // const test = await AuthenticationService.register({
+    //   email: 'test@test.se',
+    //   password: '123124'
+    // });
     console.log(test);
   }
 }

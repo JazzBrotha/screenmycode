@@ -1,20 +1,28 @@
 {
+  "main": "index.js",
   "dependencies": {
-    "@types/cors": "^2.8.4",
-    "@types/es6-shim": "^0.31.37",
-    "@types/express": "^4.16.0",
-    "@types/morgan": "^1.7.35",
+    "@tsed/common": "^4.32.0",
+    "@tsed/core": "^4.32.0",
     "body-parser": "^1.18.3",
-    "cors": "^2.8.4",
-    "express": "^4.16.3",
-    "morgan": "^1.9.1",
-    "typescript": "^3.0.3"
+    "compression": "^1.7.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "method-override": "^3.0.0"
   },
   "devDependencies": {
-    "nodemon": "^1.18.4"
+    "@types/express": "^4.16.0",
+    "nodemon": "^1.18.4",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.2"
   },
   "scripts": {
-    "tsc": "tsc",
-    "start": "nodemon dist/server.js"
+    "build": "npm run tsc",
+    "coverage": "npm run test-cov && npm run test-remap",
+    "postinstall": "npm run build",
+    "tslint": "tslint ./*.ts ./lib/*.ts",
+    "test": "mocha --reporter spec --check-leaks --bail test/",
+    "tsc": "tsc --project tsconfig.json",
+    "tsc:w": "tsc -w",
+    "start": "nodemon --watch '**/*.ts' --ignore 'node_modules/**/*' --exec ts-node src/Server.ts"
   }
 }

@@ -12,6 +12,7 @@
     "object-literal-sort-keys": false,
     "no-consecutive-blank-lines": false,
     "arrow-parens": false,
-    "radix": false
+    "radix": false,
+    "no-unused-variable": false
   }
 }
