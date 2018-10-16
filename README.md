@@ -38,10 +38,10 @@ Maintainers drive the project forward by controlling its direction. A maintainer
 
 Please note that these roles sometimes overlap. For example, a maintainer's tasks can contain that of a reviewer and a contributor.
 
-## Contribution Guidelines
-Guidelines will be added before the project is opened for contributions.
+## How to contribute
+Please follow the [Contribution Guidelines](CONTRIBUTING.md) when suggesting changes to this project.
 
-## Code of Conduct
+## Code of conduct
 This project enforces the [Contributor Covenant](CODE_OF_CONDUCT.md).
 
 ## License
