@@ -8,6 +8,8 @@ import Path = require('path');
 @ServerSettings({
   rootDir: Path.resolve(__dirname), // optional. By default it's equal to process.cwd()
   acceptMimes: ['application/json'],
+  httpPort: '127.0.0.1:8081',
+  httpsPort: '127.0.0.2:8082',
 })
 export class Server extends ServerLoader {
   /**

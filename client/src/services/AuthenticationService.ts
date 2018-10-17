@@ -7,4 +7,7 @@ export default {
   runOrca() {
     return Api().get('run');
   },
+  getTestData() {
+    return Api().get('calendars');
+  },
 };

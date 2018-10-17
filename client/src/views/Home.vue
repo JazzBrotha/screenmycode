@@ -20,7 +20,7 @@ import AuthenticationService from '../services/AuthenticationService';
 })
 export default class Home extends Vue {
   public async getExamples() {
-    const test = await AuthenticationService.runOrca();
+    const test = await AuthenticationService.getTestData();
     // const test = await AuthenticationService.register({
     //   email: 'test@test.se',
     //   password: '123124'
