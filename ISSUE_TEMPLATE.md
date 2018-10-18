@@ -1,11 +1,5 @@
----
-name: Bug report
-about: Inform us about a bug you found
-
----
-
 **Before going further, check these steps**
-- [ ] Issue title I'm writing is in form `BUG: [Short title]`.
+- [ ] Issue title I'm writing is in form `BUG: Short title`.
 - [ ] I searched or browsed the repo’s other issues to ensure this is not a duplicate.
 
 **Describe the bug / Actual behavior**
