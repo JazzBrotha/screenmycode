@@ -1,4 +1,4 @@
-Closes issue (#)[link here]
+Closes issue [#](link here)
 
 ## Description
 
