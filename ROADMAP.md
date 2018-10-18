@@ -21,8 +21,8 @@ Down below are a list of milestones that represent the overall goals of the proj
 >  Understand why the screen reader only extracts certain parts of the code in the sandbox. Output the information that the screen reader extracts, i.e. into the terminal.
 
 ### Medium term
-- [ ] **Launch screen ready from web application UI**
-> Be able to launch the screen from a user interaction, i.e a click event.
+- [ ] **Launch screen reader from web application UI**
+> Be able to launch the screen reader from a user interaction, i.e a click event.
 - [ ] **Visualize the extracted code in the UI**
 > Make the extracted code update live in the UI.
 - [ ] **Create the highlighting effect**
