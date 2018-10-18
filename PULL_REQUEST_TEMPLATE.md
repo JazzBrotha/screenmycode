@@ -1,11 +1,11 @@
+**Closes issue** [#](link here)
 
-###### Closing Issue 
-issue reference (#) 
+**Description** A clear and concise description of the pull request.
+ 
+ **Changes Made in This Pull Request** A list of the changes made.
+ 
+-
+-
+-
 
-###### Changes Made In Pull Request
-
-*
-*
-
-###### Reviewed by 
-@ reviewerName
+**Reviews required by** (@mention here)
