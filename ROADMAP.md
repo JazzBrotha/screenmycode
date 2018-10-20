@@ -31,8 +31,17 @@ Down below are a list of milestones that represent the overall goals of the proj
 > Enable the user to edit the code in the sandbox and re-run it.
 
 ### Long term
-Long term milestones are to be added shortly.
+- [ ] **Attract users from the community**
+> Use different community channels such as meet ups, slack, etc. to get users to test the product.
+- [ ] **Attract contributors from the community**
+> Use different community channels such as meet ups, slack, etc. to get contributors to improve the product.
+- [ ] **Get mentioned in a newsletter**
+> Get the project mentioned in a tech newsletter.
+- [ ] **Hold a tech talk**
+> Get invited to a meetup to talk about the project.
 
 ### Completed
 - [x] **Pick a tech stack**
 > Pick a tech stack that best can serve the web application's purpose. Also think about what technologies that are well represented in the web community in order to increase the possible amount of open source participants.
+- [x] **Get first community contribution**
+> A community member files an issue or adds a pull request.
