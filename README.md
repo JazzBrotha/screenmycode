@@ -4,6 +4,8 @@
 
 This web application is an accessibility tool for developers to help them learn the fundamentals of screen readers mechanics. The application contains a sandbox where the user can drop a piece of code, and as the user navigates through the code, the part of the code that the screen reader reads is highlighted. A wireframe will be added to describe the application flow more cleary.
 
+The server side of the application runs on [Express.js](https://expressjs.com/), and the client side runs on [Vue.js](https://vuejs.org/). Information about the application's development technologies can be found in the [Contribution Guidelines](CONTRIBUTING.md).
+
 The application is part of [Mozilla Open Leaders Round 6](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/).
 
 ## Project roles
