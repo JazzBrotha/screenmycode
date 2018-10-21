@@ -23,10 +23,13 @@ Both the server side and the client side developer environment uses [Typescript]
 ## Conventions
 
 ### Git
-Please follow the [Conventional Commits Guide](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) for Git commit messages. For branch naming convention please follow [this guide](https://gist.github.com/revett/88ee5abf5a9a097b4c88).
+Please adhere to the [Conventional Commits Guide](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) for Git commit messages. For branch naming convention please follow [this guide](https://gist.github.com/revett/88ee5abf5a9a097b4c88).
 
 ### Code
-Please follow the setup configuration in the separate server and client `tsconfig.json` files as well as the linting rules in `tslint.json`. Also follow the `.prettierrc` settings for syntax related concerns.
+Please adhere to the setup configuration in the separate server and client `tsconfig.json` files as well as the linting rules in `tslint.json`. Also follow the `.prettierrc` settings for syntax related concerns.
+
+## Setup
+To setup the project, please follow the instructions in the respective readme file for the [server](https://github.com/JazzBrotha/screenmycode/blob/master/server/README.md) and the [client](https://github.com/JazzBrotha/screenmycode/blob/master/client/README.md).
 
 ## Suggesting changes
 
