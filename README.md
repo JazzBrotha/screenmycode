@@ -2,9 +2,9 @@
 
 **The project is currently under development. The initial release plans to launch the 12:th of December 2018.**
 
-This web application is an accessibility tool for developers to help them learn the fundamentals of screen readers mechanics. The application contains a sandbox where the user can drop a piece of code, and as the user navigates through the code, the part of the code that the screen reader reads is highlighted. A wireframe will be added to describe the application flow more cleary.
+This web application is an accessibility tool to help developers learn the fundamentals of screen reader mechanics. The application contains a sandbox where the user can drop a piece of code, and as the user navigates through the code, the screen reader highlights the part of the code that is being read. This serves to demonstrate how the screen reader interacts with the source code through the Web Accessibility API. A wireframe will be added to describe the application flow more clearly.
 
-The server side of the application runs on [Express.js](https://expressjs.com/), and the client side runs on [Vue.js](https://vuejs.org/). Information about the application's development technologies can be found in the [Contribution Guidelines](CONTRIBUTING.md).
+The server side of the application runs on [Express.js](https://expressjs.com/), and the client side runs on [Vue.js](https://vuejs.org/). You can find information about the application's development technologies in the [Contribution Guidelines](CONTRIBUTING.md).
 
 The application is part of [Mozilla Open Leaders Round 6](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/).
 
@@ -16,7 +16,7 @@ This project contains the four following roles:
 3. Reviewers
 4. Maintainers
 
-You can take on any one of these, or multiple, roles. Down below is a short description of each role.
+You can take on any one of these, or multiple, roles. Read a short description of each role below.
 
 ### Users
 Users drive the project forward by voicing their opinion. A user's typical tasks include
