@@ -40,6 +40,16 @@ Maintainers drive the project forward by controlling its direction. A maintainer
 
 Please note that these roles sometimes overlap. For example, a maintainer's tasks can contain that of a reviewer and a contributor.
 
+## Contributors
+Big thanks to everyone who has made this project better!
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img alt="rmoswela avatar" src="https://avatars2.githubusercontent.com/u/22495555?s=400&v=4" height="100px" width="100px"/><br /><sub><b>@rmoswela</b></sub>](https://github.com/rmoswela)<br /> | [<img alt="cameo-myob avatar" src="https://avatars2.githubusercontent.com/u/41880739?s=400&v=4" height="100px" width="100px"/><br /><sub><b>@cameo-myob</b></sub>](https://github.com/cameo-myob)<br /> | [<img alt="tairosonloa avatar" src="https://avatars1.githubusercontent.com/u/14878189?s=400&v=4" height="100px" width="100px"/><br /><sub><b>@tairosonloa</b></sub>](https://github.com/tairosonloa)<br /> | [<img alt="dangerjen avatar" src="https://avatars3.githubusercontent.com/u/28581128?s=400&v=4" height="100px" width="100px"/><br /><sub><b>@dangerjen</b></sub>](https://github.com/dangerjen)<br />
+| :---: | :---: | :---: | :---: |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
 ## How to contribute
 Please follow the [Contribution Guidelines](CONTRIBUTING.md) when suggesting changes to this project.
 
