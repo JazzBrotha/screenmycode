@@ -51,7 +51,7 @@ Big thanks to everyone who has made this project better!
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-## How to contribute [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/JazzBrotha/screenmycode)
+## How to contribute [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 Please follow the [Contribution Guidelines](CONTRIBUTING.md) when suggesting changes to this project.
 
 ## Code of conduct
