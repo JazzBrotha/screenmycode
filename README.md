@@ -1,4 +1,4 @@
-# screenmycode
+# screenmycode [![HitCount](http://hits.dwyl.io/JazzBrotha/screenmycode.svg)](http://hits.dwyl.io/JazzBrotha/screenmycode)
 
 **The project is currently under development. The initial release plans to launch the 12:th of December 2018.**
 
@@ -6,6 +6,7 @@ This web application is an accessibility tool to help developers learn the funda
 
 The server side of the application runs on [Express.js](https://expressjs.com/), and the client side runs on [Vue.js](https://vuejs.org/). You can find information about the application's development technologies in the [Contribution Guidelines](CONTRIBUTING.md).
 
+## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 The application is part of [Mozilla Open Leaders Round 6](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/).
 
 ## Project roles
@@ -50,7 +51,7 @@ Big thanks to everyone who has made this project better!
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-## How to contribute
+## How to contribute [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/JazzBrotha/screenmycode)
 Please follow the [Contribution Guidelines](CONTRIBUTING.md) when suggesting changes to this project.
 
 ## Code of conduct
