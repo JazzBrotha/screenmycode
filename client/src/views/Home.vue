@@ -2,9 +2,9 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
-  <button v-on:click="getExamples">
+  <v-btn color="success" v-on:click="getExamples">
     test
-  </button>
+  </v-btn>
   </div>
 </template>
 
