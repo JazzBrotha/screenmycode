@@ -6,7 +6,7 @@
 
 ### Identify the Bug
 
-Link to the issue of the bug that you're fixing.
+Closes issue: [#](link here)
 
 If there is not yet an issue for your bug, please open a new issue and link it here. You can find templates to open an issue [here](https://github.com/JazzBrotha/screenmycode/tree/master/.github/ISSUE_TEMPLATE).
 Note: One person's "bug" may be another person's "feature". If the pull request does not address an existing issue with a "bug" label, it may not be treated as such.
