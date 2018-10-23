@@ -5,7 +5,6 @@
 * Make sure you read the [contributing guidelines](https://github.com/JazzBrotha/screenmycode/blob/master/CONTRIBUTING.md).
 
 ### Issue or RFC Endorsed by Screenmycode's maintainers
-<!--
 
 Link to the issue or RFC that your change relates to. This must be one of the following:
 
@@ -15,7 +14,7 @@ Link to the issue or RFC that your change relates to. This must be one of the fo
 
 To contribute other changes, you must use a different template. You can see all templates at https://github.com/JazzBrotha/screenmycode/tree/master/.github/PULL_REQUEST_TEMPLATE.
 
--->
+
 
 ###  Description of the change
 

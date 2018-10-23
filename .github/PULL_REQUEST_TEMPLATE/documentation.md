@@ -6,4 +6,4 @@
 
 ## Description of the Change
 
-<!-- Describe the the purpose, design, and benefits of your change. If we can't understand the benefits of the change, the pull request may be closed at the maintainers' discretion.  -->
+Describe the the purpose, design, and benefits of your change. If we can't understand the benefits of the change, the pull request may be closed at the maintainers' discretion. 
