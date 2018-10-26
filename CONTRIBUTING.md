@@ -3,13 +3,13 @@ Please adhere to the following guidelines when contributing to *screenmycode*.
 
 #### Contents 
 
-* Prerequisites - *can add link here to prereqs*
-* Dependencies 
-* Filing an issue
-* Adding a pull request
-* Setting up the application environment and run tests
-* Git commit messaging conventions
-* Coding conventions and styleguides
+* [Prerequisites](#prerequisites)
+* [Dependencies](#project-dependencies) 
+* [Setting up the application environment and run tests](#setup)
+* [Git commit messaging conventions](#git-commits)
+* [Filing an issue](#issues)
+* [Adding a pull request](#pull-requests)
+* [Coding conventions and styleguides](#code)
 
 ## Prerequisites
 Required in order to run the application:
@@ -21,21 +21,21 @@ The minimum recommended version for `node.js` is 10.0.0, and for `npm` 5.6.0.
 ## Project dependencies
 Before setting up the project, please note the following project dependencies. 
 
-#### Dependencies
-THe server side uses [Express.js](https://expressjs.com/)
-
-The Cclient side uses [Vue.js](https://vuejs.org/).
+* The server side uses [Express.js](https://expressjs.com/)
+* The client side uses [Vue.js](https://vuejs.org/).
 
 ## Setup
-To setup the project, please follow the instructions in the respective readme file for the [server](https://github.com/JazzBrotha/screenmycode/blob/master/server/README.md) and the [client](https://github.com/JazzBrotha/screenmycode/blob/master/client/README.md).
+To setup the project, please follow the instructions in the respective README 
+file for the server and the client.
+* [`/server/README.md`](https://github.com/JazzBrotha/screenmycode/blob/master/server/README.md) 
+* [`/client/README.md`](https://github.com/JazzBrotha/screenmycode/blob/master/client/README.md)
 
 #### Development
 Both the server side and the client side developer environment uses [Typescript](https://www.typescriptlang.org/). The server side is using a `typescript` based framweork that runs ontop of `express.js` called [TS.ed](http://tsed.io/). The client side uses [SASS](https://sass-lang.com/) for client side styling. 
 
 #### Testing 
-Server side testing is done using [Mocha](https://mochajs.org/).
-
-Client side testing is done using [Jest](https://jestjs.io/).
+* Server side testing is done using [Mocha](https://mochajs.org/).
+* Client side testing is done using [Jest](https://jestjs.io/).
 
 ## Conventions
 
@@ -51,7 +51,7 @@ Please adhere to the setup configuration in the respective [server](https://gith
 ## Suggesting changes
 
 #### Issues
-Issues must follow the [Issue Template](ISSUE_TEMPLATE.md). *Also have this right here. Easier to see*
+Issues must follow the [Issue Template](ISSUE_TEMPLATE.md). 
 
 ## Pull requests
 Pull requests must follow the [Pull Request Template](PULL_REQUEST_TEMPLATE.md).
