@@ -45,10 +45,20 @@ file for the server and the client.
 Please adhere to the [Conventional Commits Guide](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) for Git commit messages. 
 
 ### Git Branches 
-For branch naming convention please follow [this guide](https://gist.github.com/revett/88ee5abf5a9a097b4c88):
+For branch naming convention please follow [this guide](https://gist.github.com/revett/88ee5abf5a9a097b4c88).
 
 ### Code
-Please adhere to the setup configuration in the respective [server](https://github.com/JazzBrotha/screenmycode/blob/master/server/tsconfig.json) and [client](https://github.com/JazzBrotha/screenmycode/blob/master/client/tsconfig.json) `tsconfig.json`, as well as the respective linting rules in the [server](https://github.com/JazzBrotha/screenmycode/blob/master/server/tslint.json) and [client](https://github.com/JazzBrotha/screenmycode/blob/master/client/tslint.json) `tslint.json`. Also follow the respective [server](https://github.com/JazzBrotha/screenmycode/blob/master/server/.prettierrc) and [client](https://github.com/JazzBrotha/screenmycode/blob/master/client/.prettierrc) `.prettierrc` settings for syntax related concerns.
+Please adhere to the setup configuration in the respective server and client `tsconfig.json`.
+   * [`server/tsconfig.json`](https://github.com/JazzBrotha/screenmycode/blob/master/server/tsconfig.json)
+   * [`client/tsconfig.json`](https://github.com/JazzBrotha/screenmycode/blob/master/client/tsconfig.json)
+  
+As well as the respective linting rules in the server and client `tslint.json`. 
+ * [`server/tslint.json`](https://github.com/JazzBrotha/screenmycode/blob/master/server/tslint.json)
+ * [`client/tslint.json`](https://github.com/JazzBrotha/screenmycode/blob/master/client/tslint.json)
+ 
+Also follow the respective server and client `.prettierrc` settings for syntax related concerns.
+ * [`server.prettierrc`](https://github.com/JazzBrotha/screenmycode/blob/master/server/.prettierrc)
+ * [`client.prettierrc`](https://github.com/JazzBrotha/screenmycode/blob/master/client/.prettierrc)
 
 ## Suggesting changes
 
