@@ -44,6 +44,7 @@ Please adhere to the [Conventional Commits Guide](https://www.conventionalcommit
 
 ### Git Branches 
 For branch naming convention please follow [this guide](https://gist.github.com/revett/88ee5abf5a9a097b4c88).
+
 ### `<type>/<name>`
 
 #### `<type>`
