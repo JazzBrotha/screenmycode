@@ -2,12 +2,12 @@
 
 **The project is currently under development. The initial release plans to launch the 12:th of December 2018.**
 
-This web application is an accessibility tool to help developers learn the fundamentals of screen reader mechanics. The application contains a sandbox where the user can drop a piece of code, and as the user navigates through the code, the screen reader highlights the part of the code that is being read. This serves to demonstrate how the screen reader interacts with the source code through the Web Accessibility API. A wireframe will be added to describe the application flow more clearly.
-
 The server side of the application runs on [Express.js](https://expressjs.com/), and the client side runs on [Vue.js](https://vuejs.org/). You can find information about the application's development technologies in the [Contribution Guidelines](CONTRIBUTING.md).
 
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 The application is part of [Mozilla Open Leaders Round 6](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/).
+
+## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+This web application is an accessibility tool to help developers learn the fundamentals of screen reader mechanics. The application contains a sandbox where the user can drop a piece of code, and as the user navigates through the code, the screen reader highlights the part of the code that is being read. This serves to demonstrate how the screen reader interacts with the source code through the Web Accessibility API. A wireframe will be added to describe the application flow more clearly.
 
 ## Project roles
 This project contains the four following roles:
@@ -46,8 +46,8 @@ Big thanks to everyone who has made this project better!
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img alt="rmoswela avatar" src="https://avatars2.githubusercontent.com/u/22495555?s=400&v=4" height="100px" width="100px"/><br /><sub><b>@rmoswela</b></sub>](https://github.com/rmoswela)<br /> | [<img alt="cameo-myob avatar" src="https://avatars2.githubusercontent.com/u/41880739?s=400&v=4" height="100px" width="100px"/><br /><sub><b>@cameo-myob</b></sub>](https://github.com/cameo-myob)<br /> | [<img alt="tairosonloa avatar" src="https://avatars1.githubusercontent.com/u/14878189?s=400&v=4" height="100px" width="100px"/><br /><sub><b>@tairosonloa</b></sub>](https://github.com/tairosonloa)<br /> | [<img alt="dangerjen avatar" src="https://avatars3.githubusercontent.com/u/28581128?s=400&v=4" height="100px" width="100px"/><br /><sub><b>@dangerjen</b></sub>](https://github.com/dangerjen)<br /> | [<img alt="brianabaker avatar" src="https://avatars2.githubusercontent.com/u/28078297?s=400&v=4" height="100px" width="100px"/><br /><sub><b>@brianabaker</b></sub>](https://github.com/brianabaker)<br />
-| :---: | :---: | :---: | :---: | :---: |
+| [<img alt="rmoswela avatar" src="https://avatars2.githubusercontent.com/u/22495555?s=400&v=4" height="100px" width="100px"/><br /><sub><b>@rmoswela</b></sub>](https://github.com/rmoswela)<br /> | [<img alt="cameo-myob avatar" src="https://avatars2.githubusercontent.com/u/41880739?s=400&v=4" height="100px" width="100px"/><br /><sub><b>@cameo-myob</b></sub>](https://github.com/cameo-myob)<br /> | [<img alt="tairosonloa avatar" src="https://avatars1.githubusercontent.com/u/14878189?s=400&v=4" height="100px" width="100px"/><br /><sub><b>@tairosonloa</b></sub>](https://github.com/tairosonloa)<br /> | [<img alt="dangerjen avatar" src="https://avatars3.githubusercontent.com/u/28581128?s=400&v=4" height="100px" width="100px"/><br /><sub><b>@dangerjen</b></sub>](https://github.com/dangerjen)<br /> | [<img alt="brianabaker avatar" src="https://avatars2.githubusercontent.com/u/28078297?s=400&v=4" height="100px" width="100px"/><br /><sub><b>@brianabaker</b></sub>](https://github.com/brianabaker)<br /> | [<img alt="khushhalm avatar" src="https://avatars0.githubusercontent.com/u/25052873?s=400&v=4" height="100px" width="100px"/><br /><sub><b>@khushhalm</b></sub>](https://github.com/khushhalm)<br />
+| :---: | :---: | :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
