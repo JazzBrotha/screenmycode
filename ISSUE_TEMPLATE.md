@@ -1,28 +1,3 @@
-**Before going further, check these steps**
-- [ ] Issue title I'm writing is in form `BUG: Short title`.
-- [ ] I searched or browsed the repo’s other issues to ensure this is not a duplicate.
+## Issue Template
 
-**Describe the bug / Actual behavior**
-A clear and concise description of what the bug is.
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Steps To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Environment (please complete the following information):**
- - Device: [e.g. iPhone6, Desktop]
- - OS: [e.g. iOS8.1, Windows10]
- - Browser [e.g. Safari, Chrome]
- - Project version [e.g. 1.0.0]
-
-**Screenshots (optional)**
-If applicable, add screenshots to help explain your problem.
-
-**Additional context (optional)**
-Add any other context about the problem here.
+When creating a new issue you will be able to choose any one of [these templates](https://github.com/JazzBrotha/screenmycode/tree/master/.github/ISSUE_TEMPLATE). If none of the templates are to your liking, you can still open a regular issue.
